@@ -1,5 +1,6 @@
-# CodeAlpha_CGPA-Calculator
+# CGPA-Calculator - CodeAlpha Internship Project
 
+# Task # 1
 
 ## 📌 Project Description
 A simple C++ program to calculate GPA and CGPA for students. Takes course grades and credit hours as input and computes the final GPA.
